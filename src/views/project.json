@@ -1,0 +1,98 @@
+
+[{"id":1,
+"bg":"../../graphics/tallsea.png",
+"link":"https://github.com/promisedev/tallsea-integrated-website",
+"title":"Tallsea Business website",
+"tools":["Vanilla.js", "Php", "HTML", "CSS"]},
+{"id":2,
+"bg":"../../graphics/plant-ecommerce.png",
+"link":"https://github.com/promisedev/plant-ecommerce",
+"title":"Plant-ecommerce-store",
+"tools":["React.js", "HTML", "CSS"]},
+{"id":3,
+"bg":"../../graphics/spotify.png",
+"link":"https://github.com/promisedev/spotify-clone",
+"title":"Spotify's Clone",
+"tools":["React.js", "HTML", "CSS", "MaterialUi"]},
+{"id":4,
+"bg":"../../graphics/qatar.png",
+"link":"https://github.com/promisedev/Qatar-airline-clone",
+"title":"Qatar-airline-clone",
+"tools":["React.js", "HTML", "CSS", "MaterialUi"]},
+{"id":5,
+"bg":"../../graphics/jaex.png",
+"link":"https://github.com/promisedev/test-drilling-application",
+"title":"Test-drilling-application",
+"tools":["React.js", "HTML", "CSS", "MaterialUi", "Node.js","Express.js","MongoDb"]},
+{
+  "id": 6,
+  "bg": "../../graphics/tallsea-gatsby.png",
+  "link": "https://github.com/promisedev/corporate-gatsby-website1",
+  "title": "Gatsby-corporate website",
+  "tools": [
+    "React.js",
+    "HTML",
+    "CSS",
+    "MaterialUi",
+    "Gatsby",
+    "Graphql","Contentful"
+
+  ]
+},
+{
+  "id": 7,
+  "bg": "../../graphics/promise-react.png",
+  "link": "https://github.com/promisedev/react-portfolio-project",
+  "title": "React-portfolio",
+  "tools": [
+    "React.js",
+      "CSS",
+      "Javascript",
+    "MaterialUi" 
+
+  ]
+},
+
+{
+  "id": 8,
+  "bg": "../../graphics/prophegos.png",
+  "link": "https://github.com/promisedev/next-music-app",
+  "title": "Nextjs-music-app",
+  "tools": [
+    "React.js",
+    "Nextjs",
+    "CSS",
+    "MaterialUi",
+    "Mongodb"   
+
+  ]
+},
+{
+  "id": 9,
+  "bg": "../../graphics/gatsby-blog1.png",
+  "link": "https://github.com/promisedev/gatsby-blog-project",
+  "title": "Gatsby-blog-app",
+  "tools": [
+    "React.js",
+    "Gatsby",
+    "CSS",
+    "MaterialUi",
+    "Contentful","Graphql"  
+
+  ]
+},
+{
+  "id": 10,
+  "bg": "../../graphics/dappa-gatsby.png",
+  "link": "https://github.com/promisedev/gatsby-portfolio-project",
+  "title": "Gatsby-portfolio-website",
+  "tools": [
+    "React.js",
+    "Gatsby",
+    "CSS",
+    "MaterialUi",
+    "Contentful","Graphql"  
+
+  ]
+}
+]

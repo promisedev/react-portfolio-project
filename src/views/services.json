@@ -1,0 +1,30 @@
+[
+    {"id":1,
+    "icon":"../../graphics/brand-icon.jpg",
+    "bg":"https://cdn.shopify.com/s/files/1/0070/7032/files/brand-visual-identity-header.jpg?v=1658761679&width=1024",
+"title":"Brand Identity",
+"desc":"Enhance the identity of your brand by letting experts handle the job for you. Starting with creating a unique logo, designing customized ads and creating brand advert videos, i got you all covered."},
+{"id":2,
+    "icon":"../../graphics/marketing-icon.jpg",
+    "bg":"https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/FL307_blog_digital_marketing_banner.jpg",
+"title":"Marketing",
+"desc":"With my social media marketing strategy and  Search Engine Optimization (SEO) skills, I can play a huge role in terms of marketing and advertizing."},
+{"id":3,
+    "icon":"../../graphics/graphic-icon.jpg",
+    "bg":"https://fiverr-res.cloudinary.com/image/upload/w_880/f_auto,q_auto/v1/attachments/generic_asset/asset/91c293673ad8b206e7125792c0e422b3-1612436784458/graphic%20design-min.jpg",
+"title":"Graphic Design",
+"desc":"I create amazing graphics and illustration of ads and logos using the popular graphic tools such as Corel draw and Adobe Illustrator. "},
+{"id":4,
+    "icon":"../../graphics/webdesign-icon.jpg",
+    "bg":"https://64.media.tumblr.com/6f2c669d70ebde44e329430285924813/tumblr_ocbyl0W51M1umwflfo1_1280.jpg",
+"title":"Web Design",
+"desc":"I can create a responsive user interface(UI) for your website with good user experience(UX). "},
+
+{"id":5,
+    "icon":"../../graphics/webdevelopment-icon.jpg",
+    "bg":"https://cdn.columbiauniversitybootcamp.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_01-850x412.jpg",
+"title":"Web Development",
+"desc":"Get started by owning a website to best showcase your brand. I can develop responsive and dynamic websites that best suit your business need."}
+
+
+]
